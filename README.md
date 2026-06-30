@@ -79,9 +79,3 @@ Este projeto utiliza:
 - ✅ Integração Contínua (CI)
 - ✅ GitHub Actions
 
-## Autor
-
-**Gabriel Piske**
-
-Disciplina: Qualidade de Software  
-Curso: Análise e Desenvolvimento de Sistemas – UniSenac
